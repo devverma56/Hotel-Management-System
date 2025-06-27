@@ -1,0 +1,10 @@
+
+            Payment Receipt:
+            -------------------
+            Amount Paid: $256325
+            Cardholder: kheem singh
+            Mobile: 6541230987
+            Card Number: **** **** **** 9856
+            Expiry Date: 03/26
+            Payment Status: Success
+            
